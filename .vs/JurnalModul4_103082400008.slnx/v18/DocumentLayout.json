@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\JurnalModul4_103082400008\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73590CDD-A032-ADFA-4F24-5BEBF5D0804F}|JurnalModul4_103082400008\\JurnalModul4_103082400008.csproj|c:\\users\\ruben\\documents\\ruben folder\\materi kuliah\\konstruksipl\\jurnalmodul4_103082400008\\jurnalmodul4_103082400008\\kodebuah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73590CDD-A032-ADFA-4F24-5BEBF5D0804F}|JurnalModul4_103082400008\\JurnalModul4_103082400008.csproj|solutionrelative:jurnalmodul4_103082400008\\kodebuah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{73590CDD-A032-ADFA-4F24-5BEBF5D0804F}|JurnalModul4_103082400008\\JurnalModul4_103082400008.csproj|c:\\users\\ruben\\documents\\ruben folder\\materi kuliah\\konstruksipl\\jurnalmodul4_103082400008\\jurnalmodul4_103082400008\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73590CDD-A032-ADFA-4F24-5BEBF5D0804F}|JurnalModul4_103082400008\\JurnalModul4_103082400008.csproj|solutionrelative:jurnalmodul4_103082400008\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73590CDD-A032-ADFA-4F24-5BEBF5D0804F}|JurnalModul4_103082400008\\JurnalModul4_103082400008.csproj|c:\\users\\ruben\\documents\\ruben folder\\materi kuliah\\konstruksipl\\jurnalmodul4_103082400008\\jurnalmodul4_103082400008\\posisikaraktergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73590CDD-A032-ADFA-4F24-5BEBF5D0804F}|JurnalModul4_103082400008\\JurnalModul4_103082400008.csproj|solutionrelative:jurnalmodul4_103082400008\\posisikaraktergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73590CDD-A032-ADFA-4F24-5BEBF5D0804F}|JurnalModul4_103082400008\\JurnalModul4_103082400008.csproj|c:\\users\\ruben\\documents\\ruben folder\\materi kuliah\\konstruksipl\\jurnalmodul4_103082400008\\jurnalmodul4_103082400008\\kodebuah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73590CDD-A032-ADFA-4F24-5BEBF5D0804F}|JurnalModul4_103082400008\\JurnalModul4_103082400008.csproj|solutionrelative:jurnalmodul4_103082400008\\kodebuah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "kodeBuah.cs",
               "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\JurnalModul4_103082400008\\JurnalModul4_103082400008\\kodeBuah.cs",
               "RelativeDocumentMoniker": "JurnalModul4_103082400008\\kodeBuah.cs",
               "ToolTip": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\JurnalModul4_103082400008\\JurnalModul4_103082400008\\kodeBuah.cs",
               "RelativeToolTip": "JurnalModul4_103082400008\\kodeBuah.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T21:09:13.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\JurnalModul4_103082400008\\JurnalModul4_103082400008\\Program.cs",
               "RelativeDocumentMoniker": "JurnalModul4_103082400008\\Program.cs",
               "ToolTip": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\JurnalModul4_103082400008\\JurnalModul4_103082400008\\Program.cs",
               "RelativeToolTip": "JurnalModul4_103082400008\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T21:08:33.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PosisiKarakterGame.cs",
+              "DocumentMoniker": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\JurnalModul4_103082400008\\JurnalModul4_103082400008\\PosisiKarakterGame.cs",
+              "RelativeDocumentMoniker": "JurnalModul4_103082400008\\PosisiKarakterGame.cs",
+              "ToolTip": "C:\\Users\\Ruben\\Documents\\Ruben Folder\\MATERI KULIAH\\KonstruksiPL\\JurnalModul4_103082400008\\JurnalModul4_103082400008\\PosisiKarakterGame.cs",
+              "RelativeToolTip": "JurnalModul4_103082400008\\PosisiKarakterGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T21:41:33.287Z",
               "EditorCaption": ""
             }
           ]
