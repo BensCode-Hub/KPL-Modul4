@@ -27,10 +27,10 @@ namespace JurnalModul4_103082400008
 
             Console.WriteLine(" Simulasi Perubahan State: ");
 
-            pemain.TekanTombol("Tombol W", nim);
-            pemain.TekanTombol("Tombol X", nim);
-            pemain.TekanTombol("Tombol S", nim);
-            pemain.TekanTombol("Tombol W", nim);
+            pemain.TekanTombol("TombolW", nim);
+            pemain.TekanTombol("TombolX", nim);
+            pemain.TekanTombol("TombolS", nim);
+            pemain.TekanTombol("TombolW", nim);
         }
     }
 }
